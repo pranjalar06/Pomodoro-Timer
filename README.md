@@ -5,10 +5,15 @@ Pomodoro Bliss is your cozy little corner of focus. Built with a sundar frontend
 
 # 🌼 Why You'll Love It
 ⏳ 25-Minute Focus Sessions – Perfect for deep work, studying, or daydream-free productivity.
+
 ☕ 5 & 10-Minute Breaks – Choose how much rest you need — a quick breather or a longer chill.
+
 🎨 Modern UI – Minimalist design with refined colors, smooth transitions, and balanced typography.
+
 📱 Responsive Layout – Optimized for desktop and usable across devices.
+
 🧭 Manual Session Control – Start and switch sessions when you're ready — no pressure.
+
 
 ---
 
