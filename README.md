@@ -24,12 +24,16 @@ Pomodoro Bliss is your cozy little corner of focus. Built with a sundar frontend
 
 # 🛠️ Built With
 HTML – Structured with love
+
 CSS – Styled for elegance and softness
+
 JavaScript – Handles timer logic, with full manual control
 
 ---
 
 # 🧘 How It Works
 Start a Focus Session – Click the Start button and stay in the zone for 25 minutes.
+
 Pick Your Break – Choose between a 5-minute refresh or a 10-minute recharge.
+
 Repeat Gently – No rush, no pressure. Just mindful productivity.
